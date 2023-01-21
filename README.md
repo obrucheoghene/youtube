@@ -3,6 +3,8 @@
 ## About
 The Youtube clone app is a ReactJs application. It uses the Youtube-V3 API from RapidAPI to fetch and share Youtube content.
 
+It is live on [Youtube Clone App](https://youtube-wc.netlify.app/)
+
 ![Youtube Clone Application](Youtube-Clone.png)
 
 ## Libraries and Dependencies
