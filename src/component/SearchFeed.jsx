@@ -12,14 +12,18 @@ const SearchFeed = () => {
     .then((data) => setVideos(data.items))
   }, [searchTerm])
   return (
-    <Box p={2} sx={{overflowY: 'auto', height: '90vh', flex: 2}}>
-    <Typography variant="h4"
+    <Box display="flex" p={2} sx={{overflowY: 'auto', height: '90vh', flex: 2}}>
+        <Box sx={{mr: {sm: '100px'}}} />
+   <Box>
+   <Typography variant="h5"
     fontWeight="bold" mb={2} sx={{color: 'white'}}>
-      Search Results for: <span style={{color: '#F31503'}}>{searchTerm}</span>
+      Search results for: <span style={{color: '#F31503', marginRight: '5px'}}>{searchTerm}</span>
       videos
     </Typography>
 
-    <Videos videos={videos}/>
+    <Videos videos={videos} />
+   </Box>
+ 
   </Box>
   )
 }
