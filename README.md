@@ -9,8 +9,8 @@ It is live on [Youtube Clone App](https://youtube-wc.netlify.app/)
 
 ## Libraries and Dependencies
 
-**React**
-- React is a free and open-source frpnt-end Javascript library for single page web application using UI components.
+**ReactJS**
+- ReactJS is an open-source front-end Javascript library for single page web application using UI components.
 
 **React Router Dom**
 - React Router DOM is a routing library for React to implement dynamic routing in a web app. 
@@ -35,11 +35,11 @@ It is live on [Youtube Clone App](https://youtube-wc.netlify.app/)
 
 2. cd into the project folder and install dependencies
 
-  `$ npm install`
+    `$ npm install`
 
 3. Start the application.
   
-  `$ npm start`
+    `$ npm start`
 
 **Thank you. Enjoy It!**
 
