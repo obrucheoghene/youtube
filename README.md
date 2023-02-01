@@ -41,9 +41,7 @@ It is live on [Youtube Clone App](https://youtube-wc.netlify.app/)
   
     `$ npm start`
 
+**Wide Screen Preview**
+![Youtube Clone Application](Youtube-wide.png)
+
 **Thank you. Enjoy It!**
-
-
-
-
-
